@@ -46,6 +46,22 @@ Date:   Fri Jan 26 14:27:20 2024 -0500
     Initial commit
 
 Answer 9: 
+On branch main
+Your branch is up to date with 'origin/main'.
 
-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
+nothing to commit, working tree clean
 
+Answer 10: No
+
+Answer 11: To https://github.com/aalphin27/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/aalphin27/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12: Yes
+
+Answer 13: .  ..  .git  .gitignore  README.md
